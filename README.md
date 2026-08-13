@@ -5,14 +5,14 @@ A custom badminton shaped usb hub. CAD/Made by Heona Liu. Post event project (th
 
 <img src="Images/FULL ASSEMBLY.png">
 
-This USB Hub has 2 Type-A and 2 Type-C downstream ports, and 1 Type-C upstream port. Additionally, the custom shape on the top of the cover doubles as a phone stand where you can place your phone horizontally/vertically!
+This USB Hub has 2 Type-A and 2 Type-C downstream ports, and 1 Type-C upstream port. Additionally, the custom shape on the top of the cover doubles as a phone stand where you can place your phone horizontally/vertically! What a fashionable & practical table accessory!
 
 <img src="ZinePNG.png">
 
 </div>
 
 # Overview of How it Works:
-This USB Hub uses SL2.1S from CoreChips which allows the connection to split between multiple downstream ports. This hub allows 2 Type A, 2 Type C downstream ports, and 1 upstream Type C port. The Case is mounted together with 2 M3 Screws and 2 M4 Screws (all 14mm in length)
+This USB Hub uses SL2.1S from CoreChips which allows the connection to split between multiple downstream ports. This hub allows 2 Type A, 2 Type C downstream ports, and 1 upstream Type C port. The Case is mounted together with 2 M3 Screws and 2 M4 Screws (all 14mm in length). 
 
 
 ## Why I Built This Project
@@ -73,6 +73,7 @@ Continuing to build on my journey of learning hardware - I decided to build this
 4. After sealing it with the top case, take your M3 screws, and screw the 2 holes on the tail of the case from the bottom case toward the top case.
 5. Take the 2 M4 screws and repeat step 4, but with the 2 remaining holes on the head.
 6. It should be sealed, and the fashionable USB Hub should be ready to use!
+7. Use the top of the case to hold your phone on your desk!
 
 # Software/stuff Used:
 - EasyEDA Pro
