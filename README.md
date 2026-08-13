@@ -7,7 +7,7 @@ A custom badminton shaped usb hub. CAD/Made by Heona Liu. Post event project (th
 
 This USB Hub has 2 Type-A and 2 Type-C downstream ports, and 1 Type-C upstream port. Additionally, the custom shape on the top of the cover doubles as a phone stand where you can place your phone horizontally/vertically! What a fashionable & practical table accessory!
 
-<img src="ZinePNG.png">
+<img src="Zine.png">
 
 </div>
 
