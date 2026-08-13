@@ -58,7 +58,28 @@ Continuing to build on my journey of learning hardware - I decided to build this
 |6|2|10.0 QHHTZB6.3|USB4,USB5 |USB-A-TH_10.0QHHTZB6.3||10.0 QHHTZB6.3|SHOU HAN(首韩)|C668591|LCSC|1|0.13|https://jlcpcb.com/partdetail/16536(10.0QHHTZB6.3)/C668591|
 ||23|**Total Price**|||||||||**$0.9**|
 
+## Structural (Screws, Nuts) -- BOM:
+| **Item** | **Description** | **Qty**  | **Total Price** | **Link**
+| :--: | :--: | :--: | :--: |:--: |
+| M3 x 14mm Screw | PH Countersunk flat head screw M3x0.5 x 14  | 2 | $1.54 | [Purchase Link](https://accu-components.com/us/phillips-countersunk-screws/65914-SIK-M3-14-A2?google_shopping=1&c=2&gad_source=1&gad_campaignid=23876758716&gbraid=0AAAAADI7_w5o1WZlZmOphOTekfqIdY7I_&gclid=CjwKCAjw1vXTBhB-EiwAEKr_k4LmfPN7T4sHyd8kYJPY-YvHkzMJR9hx_AQFAW-jzwHTRWbw7AVzjhoCVzoQAvD_BwE) |
+| M4 x 14mm Screw | PH Countersunk flat head screw M4x0.7 x 14  | 2 | $1.94 | [Purchase Link](https://accu-components.com/us/pozi-countersunk-screws/9685-SPK-M4-14-A4?google_shopping=1&c=2&gad_source=1&gad_campaignid=23876758716&gbraid=0AAAAADI7_w5o1WZlZmOphOTekfqIdY7I_&gclid=CjwKCAjw1vXTBhB-EiwAEKr_k8YgTObNUtVu5c7uWmAZW3OfgOnroT967c4PhGwQpeN1YOi5Uv8TFxoCzNYQAvD_BwE) |
+|| **Total Price** |  | 3.48| |
+
 
 ## How To Use It
+1. Order the PCB with Assembly so that the parts come assembled.
+2. Once you have the parts, including the 3D printed case and screws, put the fresh PCB on the bottom case, aligning with the USB ports slots.
+3. It should fit snug. Then place the top case on top, sealing the case.
+4. After sealing it with the top case, take your M3 screws, and screw the 2 holes on the tail of the case from the bottom case toward the top case.
+5. Take the 2 M4 screws and repeat step 4, but with the 2 remaining holes on the head.
+6. It should be sealed, and the fashionable USB Hub should be ready to use!
 
-by Heona Liu 2026
+# Software/stuff Used:
+- EasyEDA Pro
+- JLCPCB
+- Procreate
+- OnShape
+- Visual Studio Coded
+
+---
+built with <3 by Heona Liu 2026
